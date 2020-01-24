@@ -21,6 +21,7 @@ public class SparkWebApp {
         if (System.getenv("PORT")!=null){
             return Integer.parseInt(System.getenv("PORT"));
         }
-        return Integer.parseInt(System.getenv("PORT"));
+        return 4567;
     }
+    
 }

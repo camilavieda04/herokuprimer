@@ -37,8 +37,8 @@ public class SparkWebApp {
 			="<!DOCTYPE html>" 
 			+"<html>"
 			+"<body>" 
-			+ "<h2>Bandeja de entrada de los números:</h2>"
-			+ "<h2>(Introduzca los números separados por una coma)</h2>" 
+			+ "<h2>Bandeja de entrada de los numeros:</h2>"
+			+ "<h2>(Introduzca los numeros separados por una coma)</h2>" 
 			+ "<form action='/resultados\'>" 
 			+ "<input type=\"text\" name='data'>"
 			+ "<input type=\"submit\" value=\"Continue\">"  
@@ -65,7 +65,7 @@ public class SparkWebApp {
 				+"<html>"
 				+"<body>" 
 				+ "<h2>"+ "La media de la Linked List es: " + media + "<h2>"
-				+ "<h2>"+ "La desviación de la Linked List es: " + c.desviacionEstandar(media) + "<h2>"
+				+ "<h2>"+ "La desviacion de la Linked List es: " + c.desviacionEstandar(media) + "<h2>"
 				+ "</body>"
 				+ "</html>";
 		
@@ -73,7 +73,7 @@ public class SparkWebApp {
 	
 	}
 	 /**
-     * Este metodo lee el puerto predeterminado según lo especificado por la variable PORT 
+     * Este metodo lee el puerto predeterminado segun lo especificado por la variable PORT 
      *
      */
 	static int getPort(){

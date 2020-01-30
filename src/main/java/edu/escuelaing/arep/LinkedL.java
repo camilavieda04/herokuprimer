@@ -80,7 +80,7 @@ public class LinkedL implements List  {
 	
 	/**
 	 * Metodo para eliminar un Nodo de la LinkedList
-	 * @param valor Variable que representa el valor del nodo en la LinkedList
+	 * @param datos Variable que representa el valor del nodo en la LinkedList
 	 */
 	
 	public void deleteNodo(Double datos) {

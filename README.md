@@ -1,8 +1,8 @@
-#AREP-SparkWebApp
+# AREP-SparkWebApp
 
 Escriba un programa que calcule la media y la desviación estándar de un conjunto de n números reales, que se almacenan en una Linked List. El programa lee el conjunto de números desde una página web.
 
-##¿Cómo se ejecuta?
+## ¿Cómo se ejecuta?
 Para ejecutar este programa es necesario tener en cuenta los siguientes pasos:
 
 -   Entrar a la carpeta del ordenador donde deseamos descargar la libreria.
@@ -12,6 +12,6 @@ Para ejecutar este programa es necesario tener en cuenta los siguientes pasos:
 -   Utilizar el comando git clone, junto con el link de nuestro repositorio https://github.com/camilavieda04/herokuprimer.git
 
 
-##Despliege continuo
+## Despliege continuo
 
 [![CircleCI](https://circleci.com/gh/camilavieda04/herokuprimer.svg?style=svg)](https://circleci.com/gh/camilavieda04/herokuprimer)

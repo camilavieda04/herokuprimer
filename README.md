@@ -29,6 +29,8 @@ Para ejecutar este programa es necesario tener en cuenta los siguientes pasos:
     
      ![Capture4](https://user-images.githubusercontent.com/48154086/73499627-960be380-438e-11ea-8707-973e7ea1c4c9.PNG)
      
+     - En el navegador escribimos la siguiente direccion localhost:5000/inputdata
+     
 ## Despliege continuo
 
 [![CircleCI](https://circleci.com/gh/camilavieda04/herokuprimer.svg?style=svg)](https://circleci.com/gh/camilavieda04/herokuprimer)
